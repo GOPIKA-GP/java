@@ -4,8 +4,8 @@ public class class2 extends class1 {
 	public void add(int c,int d)
 	{
 		int x=c+d;
-		System.out.println("Parent class sum = "+ x);
-		super.add(2,4);
+		System.out.println("Child class sum = "+ x);
+		super.add(2,4);//calling parent class method
 	}
 
 	public static void main(String[] args) {

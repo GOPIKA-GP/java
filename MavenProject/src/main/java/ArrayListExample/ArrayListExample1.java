@@ -58,9 +58,6 @@ public class ArrayListExample1 {
 		
 		System.out.println(l1.get(1));
 		
-
-		
-		
 	}
 
 }

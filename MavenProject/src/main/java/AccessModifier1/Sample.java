@@ -3,7 +3,8 @@ package AccessModifier1;
 public class Sample {
 	
 	 protected int a=10;
-	 protected void samplemethod() {
+	
+	protected void samplemethod() {
 		System.out.println(a);
 	
 	}

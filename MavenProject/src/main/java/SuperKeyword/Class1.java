@@ -2,10 +2,10 @@ package SuperKeyword;
 
 public class Class1 {
 	String s = "Riyas";
-	
-	public void display() //parent class variable
+	public void display() 
 	{
-		System.out.println("Class 1 :"+ s); 
+		System.out.println("Class 1 :"+ s); //parent class variable
+		
 	}
 	
 	public  Class1()//constructor parent class

@@ -5,7 +5,7 @@ public class Vechicle {
 
 	public void model()
 	{
-	System.out.println("The car model is :" + name);
+	System.out.println("The Vechile is " + name);
 	}
 
 }
